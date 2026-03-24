@@ -9,4 +9,4 @@ full_name = first_name + " " + last_name
 
 # 3. Print a personalized greeting message
 # We use an f-string (formatted string) to insert the full_name variable
-print(f"Hello, {full_name}! Welcome to the Python program.")
+print("Hello,",full_name+"!","Welcome to the Python program.")
